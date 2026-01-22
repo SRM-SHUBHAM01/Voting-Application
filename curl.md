@@ -71,4 +71,4 @@
 
 **GET restaurants by title:**
 
-`curl -s http://localhost:8080/rest/restaurants/searchByTitle?title=ocal --user herbert@gmail.com:herbert`
+`curl -s http://localhost:8080/rest/restaurants/searchByTitle?title=ocal --user herbert@gmail.com:herbert`// Updated by Shubham Kumar
