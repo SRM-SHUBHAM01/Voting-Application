@@ -26,3 +26,4 @@ public interface DishService {
     @Secured({"ROLE_ADMIN"})
     void update(Dish dish, int id) throws NotFoundException;
 }
+// Updated by Shubham Kumar

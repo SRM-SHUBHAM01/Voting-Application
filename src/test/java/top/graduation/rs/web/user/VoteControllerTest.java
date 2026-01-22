@@ -56,3 +56,4 @@ class VoteControllerTest extends AbstractControllerTest {
 		assertMatch(voteService.getVotesBetween(1017, null, null), VOTE_HISTORY_USER_1);
 	}
 }
+// Updated by Shubham Kumar

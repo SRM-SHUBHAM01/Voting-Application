@@ -31,3 +31,4 @@ public class AbstractNamedEntity extends AbstractBaseEntity {
         this.name = name;
     }
 }
+// Updated by Shubham Kumar

@@ -35,3 +35,4 @@ public interface RestaurantRepository extends JpaRepository<Restaurant, Integer>
     @Query("SELECT DISTINCT r FROM Restaurant r JOIN FETCH r.dishes ORDER BY r.title")
     List<Restaurant> getRestaurantsWithDishes();
 }
+// Updated by Shubham Kumar

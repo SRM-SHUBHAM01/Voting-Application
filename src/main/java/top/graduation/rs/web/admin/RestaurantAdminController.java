@@ -76,4 +76,4 @@ public class RestaurantAdminController {
         log.info("update restaurant{} with id {}", newRestaurant, id);
         service.update(newRestaurant, id);
     }
-}
+}// Updated by Shubham Kumar

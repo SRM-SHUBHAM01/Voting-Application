@@ -79,3 +79,4 @@ public class Vote extends AbstractBaseEntity {
                 '}';
     }
 }
+// Updated by Shubham Kumar

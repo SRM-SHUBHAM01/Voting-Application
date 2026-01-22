@@ -45,3 +45,4 @@ public abstract class AbstractBaseEntity implements Serializable {
         return id != null ? id.hashCode() : 0;
     }
 }
+// Updated by Shubham Kumar

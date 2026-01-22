@@ -25,3 +25,4 @@ public interface VoteService {
     @Secured({"ROLE_USER"})
     List<Vote> getVotesBetween(int userId, LocalDate startDate, LocalDate endDate);
 }
+// Updated by Shubham Kumar

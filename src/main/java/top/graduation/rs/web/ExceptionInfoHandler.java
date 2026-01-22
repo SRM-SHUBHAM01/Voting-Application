@@ -66,3 +66,4 @@ public class ExceptionInfoHandler  {
         return new ErrorInfo(status, req.getRequestURL().toString(), errorMsg);
     }
 }
+// Updated by Shubham Kumar

@@ -18,3 +18,4 @@ public class UserTestData {
     public static final User USER_2 = new User(USER2_ID, "Dominik", "dominik@gmail.com", "12345678", Role.ROLE_USER);
 
 }
+// Updated by Shubham Kumar

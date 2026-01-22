@@ -54,3 +54,4 @@ CREATE TABLE votes (
 );
 CREATE UNIQUE INDEX user_unique_vote_idx ON VOTES (user_id, date);
 
+// Updated by Shubham Kumar

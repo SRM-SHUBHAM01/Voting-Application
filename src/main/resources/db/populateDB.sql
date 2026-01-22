@@ -43,4 +43,4 @@ INSERT INTO user_roles (user_id, role) VALUES
   (1016, 'ROLE_ADMIN');
 
 INSERT INTO votes (user_id, restaurant_id) VALUES
-  (1017, 1001);
+  (1017, 1001);// Updated by Shubham Kumar

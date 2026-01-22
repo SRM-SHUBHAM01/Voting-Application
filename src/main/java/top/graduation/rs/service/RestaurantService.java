@@ -34,3 +34,4 @@ public interface RestaurantService {
     @Secured({"ROLE_ADMIN"})
     List<Restaurant> getAll();
 }
+// Updated by Shubham Kumar

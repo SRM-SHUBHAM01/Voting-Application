@@ -79,4 +79,4 @@ public class VoteServiceImpl implements VoteService {
 		return voteRepo.getVotesBetween(userId, startDate!=null ? startDate : LocalDate.of(1, 1, 1),
 				endDate!=null? endDate : LocalDate.of(3000, 1, 1));
 	}
-}
+}// Updated by Shubham Kumar

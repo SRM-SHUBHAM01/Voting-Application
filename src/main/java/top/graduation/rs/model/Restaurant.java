@@ -82,3 +82,4 @@ public class Restaurant extends AbstractBaseEntity {
 		return "Restaurant [title=" + title + ", location=" + location + "]";
 	}
 }
+// Updated by Shubham Kumar
